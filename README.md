@@ -30,16 +30,6 @@ Throughout the course he cover tons of tools and technologies including:
 * PassportJS
 * Authorization
 
-### My Activities Log
+### Here you can check my activities log ([MyLog])
 
-I recored like this way, how many hours I spend on this course and how many time per week I studied. 
-
-| Date | Study Time | Content | Remark
-| ------ | ------ | ------ | ------ |
-| 2020-01-08 | 1 hr | Introduction to Front End Development | 
-| 2020-01-09 | 1 hr | Introduction to HTML | HTML Notes ([PlDb]) 
-| 2020-01-10 | 1 hr | Intermediate HTML | 
-| 2020-01-11 | 1 hr | Introduction to CSS | 
-| 2020-01-12 | 1 hr | Intermediat CSS | 
-  
-[PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+[MyLog]: <https://github.com/poepoedarli/FullStackDev/edit/master/my_study_log.md>
