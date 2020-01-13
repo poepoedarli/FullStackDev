@@ -7,7 +7,7 @@ I recored like this way, how many hours I spend on this course .....
 | Date | Study Time | Content | Remark
 | ------ | ------ | ------ | ------ |
 | 2020-01-08 | 1 hr | Introduction to Front End Development | 
-| 2020-01-09 | 1 hr | Introduction to HTML | HTML Notes 
+| 2020-01-09 | 1 hr | Introduction to HTML | 
 | 2020-01-10 | 1 hr | Intermediate HTML | 
 | 2020-01-11 | 1 hr | Introduction to CSS | 
 | 2020-01-12 | 1 hr | Intermediat CSS | 
