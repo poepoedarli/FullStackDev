@@ -32,4 +32,4 @@ Throughout the course he cover tons of tools and technologies including:
 
 ### Here you can check my activities log ([MyLog])
 
-[MyLog]: <https://github.com/poepoedarli/FullStackDev/edit/master/my_study_log.md>
+[MyLog]: <https://github.com/poepoedarli/FullStackDev/blob/master/my_study_log.md>
