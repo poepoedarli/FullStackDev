@@ -12,5 +12,5 @@ I recored like this way, how many hours I spend on this course .....
 | 2020-01-11 | 1 hr | Introduction to CSS | 
 | 2020-01-12 | 1 hr | Intermediat CSS | 
   
-If you want to know about this course, please check it out at here ([About Course])
-[About Course]: <https://github.com/poepoedarli/FullStackDev/edit/master/README.md>
+If you want to know about this course, please check it out at ([here])
+[here]: <https://github.com/poepoedarli/FullStackDev/edit/master/README.md>
