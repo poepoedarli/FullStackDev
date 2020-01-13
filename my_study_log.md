@@ -2,7 +2,7 @@
 
 ### My Activities Log
 
-I recored like this way, how many hours I spend on this course and how many time per week I studied. 
+I recored like this way, how many hours I spend on this course .....
 
 | Date | Study Time | Content | Remark
 | ------ | ------ | ------ | ------ |
