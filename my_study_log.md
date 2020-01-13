@@ -15,4 +15,4 @@ I recored like this way, how many hours I spend on this course .....
 If you want to know about this course, please check it out at ([here])
 
 
-[here]: <https://github.com/poepoedarli/FullStackDev/edit/master/README.md>
+[here]: <https://github.com/poepoedarli/FullStackDev/blob/master/README.md>
